@@ -3,7 +3,10 @@
 
 이더리움을 이용한 블록체인 기반 투표 앱 제작
 
+앱 제작 Repository https://github.com/JudyH0pps/VoteDapp
+
 이선후
 김시영
 남태원
 한동현
+
